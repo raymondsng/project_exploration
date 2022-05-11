@@ -1,4 +1,4 @@
-# project_exploration
+# Project Exploration
 
 ## Each project comes with their own README for easy reference of task and concept explored.
 
