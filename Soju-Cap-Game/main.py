@@ -1,7 +1,3 @@
-#Number Guessing Game Objectives:
-
-# Include an ASCII art logo.
-
 from art import logo
 import random
 print(logo)
